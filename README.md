@@ -1,4 +1,4 @@
-# CoreBot
+# InitialBot
 
 Bot Framework v4 core bot sample.
 
